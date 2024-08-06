@@ -9,7 +9,6 @@ class Solution {
         }
         List<Map.Entry<Character, Integer>> entryList = new ArrayList<>(map.entrySet());
         entryList.sort((entry1, entry2) -> entry2.getValue().compareTo(entry1.getValue()));
-        
         int sum=0;
         int i=0;
         int pop=1;
@@ -25,8 +24,6 @@ class Solution {
             i++;
 
         }
- 
-        
         return sum;
     }
 }
