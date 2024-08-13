@@ -1,7 +1,7 @@
 class Solution {
     Set<List<Integer>> res=new HashSet<>();
     public List<List<Integer>> permuteUnique(int[] nums) {
-        solve(nums,0,new ArrayList<>());
+        solve(nums,0);
         return new ArrayList<>(res);
     }
     public void swap(int a,int b,int nums[]){
@@ -9,17 +9,18 @@ class Solution {
         nums[a]=nums[b];
         nums[b]=t;
     }
-    public void  solve(int nums[],int index,List<Integer> ds){
+    public void  solve(int nums[],int index){
         if(index==nums.length){
-            res.add(new ArrayList<>(ds));
+            List<Integer> ds=new ArrayList<>();
+            for(int j:nums)
+            ds.add(j);
+            res.add(ds);
             return;
         }
         for(int i=index;i<nums.length;i++)
         {
-             ds.add(nums[i]);
              swap(i,index,nums);
-             solve(nums,index+1,ds);
-             ds.remove(ds.size()-1);
+             solve(nums,index+1);
              swap(i,index,nums);
         }
     }
