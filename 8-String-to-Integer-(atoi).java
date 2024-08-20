@@ -1,8 +1,6 @@
 class Solution {
     public int myAtoi(String s) {
-      
-        int n = s.length();
-
+         
         int sum = 0;
         s = s.trim();
           if (s.length() == 0)
@@ -14,7 +12,6 @@ class Solution {
             i = 1;
         }
         else if (s.charAt(0) == '+') {
-           
             i = 1;
         }
 
