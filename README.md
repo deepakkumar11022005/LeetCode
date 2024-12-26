@@ -35,4 +35,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/deepakkumar11022005/LeetCode/tree/master/0071-simplify-path) |
+## Array
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0494-target-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
