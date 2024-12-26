@@ -47,4 +47,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0494-target-sum) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
