@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    public void dfs(TreeNode root, PriorityQueue<Integer> q)
+    public void dfs(TreeNode root, List<Integer> q)
     {
         if(root!=null)
         {
@@ -26,13 +26,13 @@ class Solution {
     }
     public int getMinimumDifference(TreeNode root) {
         if(root==null) return 0;
-        PriorityQueue<Integer> q=new PriorityQueue<>();
+        List<Integer> q=new ArrayList<>();
         dfs(root,q);
         int min=Integer.MAX_VALUE;
         int n=q.size();
         for(int i=0;i<n-1;i++)
         {
-            min=Math.min(min,Math.abs(q.poll()-q.peek()));
+            min=Math.min(min,Math.abs(q.get(i)-q.get(i+1)));
         }
         
         return min;
