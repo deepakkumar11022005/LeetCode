@@ -39,10 +39,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/deepakkumar11022005/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/deepakkumar11022005/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Backtracking
 |  |
 | ------- |
