@@ -28,6 +28,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepakkumar11022005/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepakkumar11022005/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepakkumar11022005/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepakkumar11022005/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0071-simplify-path](https://github.com/deepakkumar11022005/LeetCode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakkumar11022005/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Array
 |  |
 | ------- |
