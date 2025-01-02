@@ -89,6 +89,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0071-simplify-path](https://github.com/deepakkumar11022005/LeetCode/tree/master/0071-simplify-path) |
 | [0208-implement-trie-prefix-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/deepakkumar11022005/LeetCode/tree/master/0257-binary-tree-paths) |
+| [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepakkumar11022005/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Stack
 |  |
@@ -101,6 +102,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0494-target-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/deepakkumar11022005/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepakkumar11022005/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
@@ -124,6 +126,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepakkumar11022005/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -140,4 +143,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
+## Sorting
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
