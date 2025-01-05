@@ -24,11 +24,11 @@ class Solution {
         }
         temp.end=true;
     }
-    public void dfs(Node root,char[][] board,int a,int b,String temp,Set<String> res, boolean vis[][]){
+    public void dfs(Node root,char[][] board,int a,int b,StringBuilder temp,Set<String> res, boolean vis[][]){
         if(root==null) return;
         if(root.end)
         {
-            res.add(temp);
+            res.add(temp.toString());
             // return;
         }
         vis[a][b]=true;
@@ -38,7 +38,10 @@ class Solution {
             int c=col[i]+b;
             if(r>=0 && r<n && c>=0 && c<m && !vis[r][c] && root.arr[board[r][c]-'a']!=null)
             {
-                dfs(root.arr[board[r][c]-'a'],board,r,c,temp+board[r][c],res,vis);
+                temp.append(board[r][c]);
+                dfs(root.arr[board[r][c]-'a'],board,r,c,temp,res,vis);
+                temp.deleteCharAt(temp.length()-1);
+
             }
         }
         vis[a][b]=false;
@@ -57,7 +60,7 @@ class Solution {
                 
                 if(root.arr[board[i][j]-'a']!=null)
                 {
-                    dfs(root.arr[board[i][j]-'a'],board,i,j,""+board[i][j],res,vis);
+                    dfs(root.arr[board[i][j]-'a'],board,i,j,new StringBuilder(""+board[i][j]),res,vis);
                 }
             }
         }
