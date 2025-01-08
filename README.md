@@ -102,6 +102,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepakkumar11022005/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepakkumar11022005/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/deepakkumar11022005/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2358-number-of-ways-to-split-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepakkumar11022005/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/deepakkumar11022005/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0211-design-add-and-search-words-data-structure](https://github.com/deepakkumar11022005/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0212-word-search-ii) |
 | [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/deepakkumar11022005/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +207,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/deepakkumar11022005/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
 | ------- |
@@ -212,4 +216,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/deepakkumar11022005/LeetCode/tree/master/0062-unique-paths) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/deepakkumar11022005/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/deepakkumar11022005/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
