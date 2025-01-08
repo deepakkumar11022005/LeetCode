@@ -114,6 +114,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0039-combination-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/deepakkumar11022005/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/deepakkumar11022005/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0212-word-search-ii) |
@@ -132,6 +133,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0062-unique-paths](https://github.com/deepakkumar11022005/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0494-target-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/deepakkumar11022005/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -198,6 +200,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/deepakkumar11022005/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0212-word-search-ii) |
 | [1022-unique-paths-iii](https://github.com/deepakkumar11022005/LeetCode/tree/master/1022-unique-paths-iii) |
