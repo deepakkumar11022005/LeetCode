@@ -8,7 +8,7 @@ class Solution {
         boolean f = true;
         for (int count : freq) {
 
-            if ((count & 1) == 0)
+            if ((count % 2) == 0)
                 sum += count;
 
             else {
