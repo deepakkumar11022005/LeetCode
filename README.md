@@ -97,6 +97,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0257-binary-tree-paths](https://github.com/deepakkumar11022005/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/deepakkumar11022005/LeetCode/tree/master/0409-longest-palindrome) |
 | [0878-shifting-letters](https://github.com/deepakkumar11022005/LeetCode/tree/master/0878-shifting-letters) |
+| [0952-word-subsets](https://github.com/deepakkumar11022005/LeetCode/tree/master/0952-word-subsets) |
 | [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1524-string-matching-in-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/deepakkumar11022005/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -123,6 +124,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0212-word-search-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0494-target-sum) |
 | [0878-shifting-letters](https://github.com/deepakkumar11022005/LeetCode/tree/master/0878-shifting-letters) |
+| [0952-word-subsets](https://github.com/deepakkumar11022005/LeetCode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/deepakkumar11022005/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1063-best-sightseeing-pair](https://github.com/deepakkumar11022005/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -181,6 +183,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/deepakkumar11022005/LeetCode/tree/master/0409-longest-palindrome) |
+| [0952-word-subsets](https://github.com/deepakkumar11022005/LeetCode/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepakkumar11022005/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Design
 |  |
