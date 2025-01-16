@@ -136,6 +136,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2292-counting-words-with-a-given-prefix](https://github.com/deepakkumar11022005/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/deepakkumar11022005/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepakkumar11022005/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepakkumar11022005/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/deepakkumar11022005/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -228,6 +229,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0078-subsets](https://github.com/deepakkumar11022005/LeetCode/tree/master/0078-subsets) |
 | [1022-unique-paths-iii](https://github.com/deepakkumar11022005/LeetCode/tree/master/1022-unique-paths-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepakkumar11022005/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/deepakkumar11022005/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepakkumar11022005/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
@@ -260,4 +262,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3455-minimum-length-of-string-after-operations](https://github.com/deepakkumar11022005/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/deepakkumar11022005/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
