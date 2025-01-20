@@ -127,6 +127,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0079-word-search](https://github.com/deepakkumar11022005/LeetCode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/deepakkumar11022005/LeetCode/tree/master/0120-triangle) |
 | [0212-word-search-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0212-word-search-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/deepakkumar11022005/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0494-target-sum) |
 | [0878-shifting-letters](https://github.com/deepakkumar11022005/LeetCode/tree/master/0878-shifting-letters) |
@@ -184,6 +185,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/deepakkumar11022005/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0878-shifting-letters](https://github.com/deepakkumar11022005/LeetCode/tree/master/0878-shifting-letters) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepakkumar11022005/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/deepakkumar11022005/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -207,6 +209,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/deepakkumar11022005/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0304-range-sum-query-2d-immutable](https://github.com/deepakkumar11022005/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Trie
 |  |
 | ------- |
@@ -233,6 +236,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0064-minimum-path-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/deepakkumar11022005/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0212-word-search-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/deepakkumar11022005/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/deepakkumar11022005/LeetCode/tree/master/1022-unique-paths-iii) |
