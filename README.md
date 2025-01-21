@@ -139,6 +139,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [2145-grid-game](https://github.com/deepakkumar11022005/LeetCode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/deepakkumar11022005/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -190,6 +191,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepakkumar11022005/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/deepakkumar11022005/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepakkumar11022005/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/deepakkumar11022005/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepakkumar11022005/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -241,6 +243,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0967-minimum-falling-path-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/deepakkumar11022005/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/deepakkumar11022005/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/deepakkumar11022005/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Bit Manipulation
 |  |
