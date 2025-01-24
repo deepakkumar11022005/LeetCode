@@ -19,15 +19,19 @@ class Solution {
     public String dfs(TreeNode root)
     {
         if(root==null) return "#";
-        String str=""+root.val+","+dfs(root.left)+","+dfs(root.right);
+        StringBuilder str=new StringBuilder();
+        str.append(root.val+",");
+        str.append(dfs(root.left)+",");
+        str.append(dfs(root.right));
+        // String str=""+root.val+","+dfs(root.left)+","+dfs(root.right);
         // System.out.println(str);
-        map.put(str,map.getOrDefault(str,0)+1);
-        if(map.get(str)==2)
+        map.put(str.toString(),map.getOrDefault(str.toString(),0)+1);
+        if(map.get(str.toString())==2)
         {
-            System.out.println(map);
+            // System.out.println(map);
             res.add(root);
         }
-        return str;
+        return str.toString();
     }
     public List<TreeNode> findDuplicateSubtrees(TreeNode root) {
         dfs(root);
