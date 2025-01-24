@@ -29,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepakkumar11022005/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepakkumar11022005/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/deepakkumar11022005/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepakkumar11022005/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -52,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepakkumar11022005/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepakkumar11022005/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/deepakkumar11022005/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepakkumar11022005/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
@@ -89,6 +91,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepakkumar11022005/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepakkumar11022005/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/deepakkumar11022005/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepakkumar11022005/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## String
 |  |
@@ -203,6 +206,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/deepakkumar11022005/LeetCode/tree/master/0409-longest-palindrome) |
+| [0652-find-duplicate-subtrees](https://github.com/deepakkumar11022005/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0952-word-subsets](https://github.com/deepakkumar11022005/LeetCode/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepakkumar11022005/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepakkumar11022005/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
