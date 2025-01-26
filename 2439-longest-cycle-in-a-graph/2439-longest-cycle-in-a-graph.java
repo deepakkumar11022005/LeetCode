@@ -2,34 +2,32 @@ class Solution {
 
     int par[];
     int vis[];
-    List<Integer> temp=new ArrayList<>();
-    public boolean dfs(int node,int adj[],int parent){
+    // List<Integer> temp=new ArrayList<>();
+    public int dfs(int node,int adj[],int parent){
         vis[node]=1;
         par[node]=parent;
         int child=adj[node];
-        if(child==-1) return false;
+        if(child==-1) return 0;
         if(vis[child]==0)
         {
-            if(dfs(child,adj,node)) return true;
+            return dfs(child,adj,node);
         }
          else if(vis[child]==1)
             {
-                temp.add(child);
+                int c=1;
+               
                 while(node!=child)
                 {
+                   c++;
                     if(node==-1){
-                        temp.clear();
-                        return false;
+                        return 0;
                     }
-                    
-                    temp.add(node);
                     node=par[node];
                 }
-                if(node==child) return true;
-                temp.clear();
-                return false;
+                if(node==child) return c;
+                return 0;
             }
-        return false;
+        return 0;
     }
     public int longestCycle(int[] edges) {
         int n=edges.length;
@@ -40,12 +38,9 @@ class Solution {
         {
             if(vis[i]==0 )
             {
-                   if(dfs(i,edges,-1))
-                   {
-                    max=Math.max(max,temp.size());
-                    // System.out.println(i+" "+"  "+temp);
-                    temp.clear();
-                   } 
+                   
+                    max=Math.max(max,dfs(i,edges,-1));
+                     
             }
         }
         return max==0?-1:max;
