@@ -30,6 +30,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepakkumar11022005/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/deepakkumar11022005/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0832-binary-tree-pruning](https://github.com/deepakkumar11022005/LeetCode/tree/master/0832-binary-tree-pruning) |
@@ -56,6 +57,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepakkumar11022005/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/deepakkumar11022005/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0832-binary-tree-pruning](https://github.com/deepakkumar11022005/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepakkumar11022005/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -76,6 +78,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepakkumar11022005/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepakkumar11022005/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Binary Tree
@@ -97,6 +100,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepakkumar11022005/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/deepakkumar11022005/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/deepakkumar11022005/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepakkumar11022005/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
