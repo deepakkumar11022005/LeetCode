@@ -81,6 +81,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0662-maximum-width-of-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepakkumar11022005/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Binary Tree
 |  |
 | ------- |
@@ -314,6 +315,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/deepakkumar11022005/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepakkumar11022005/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Shortest Path
 |  |
 | ------- |
@@ -321,6 +323,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Union Find
 |  |
 | ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepakkumar11022005/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepakkumar11022005/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
