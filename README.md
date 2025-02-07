@@ -80,6 +80,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1117-as-far-from-land-as-possible](https://github.com/deepakkumar11022005/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepakkumar11022005/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Binary Tree
@@ -154,6 +155,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepakkumar11022005/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1022-unique-paths-iii](https://github.com/deepakkumar11022005/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1063-best-sightseeing-pair](https://github.com/deepakkumar11022005/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1117-as-far-from-land-as-possible](https://github.com/deepakkumar11022005/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1364-tuple-with-same-product](https://github.com/deepakkumar11022005/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -184,6 +186,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0494-target-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/deepakkumar11022005/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1117-as-far-from-land-as-possible](https://github.com/deepakkumar11022005/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 ## Backtracking
 |  |
 | ------- |
@@ -269,6 +272,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0407-trapping-rain-water-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/deepakkumar11022005/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1117-as-far-from-land-as-possible](https://github.com/deepakkumar11022005/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/deepakkumar11022005/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/deepakkumar11022005/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
