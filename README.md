@@ -351,4 +351,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/deepakkumar11022005/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/deepakkumar11022005/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
