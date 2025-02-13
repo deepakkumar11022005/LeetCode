@@ -59,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0652-find-duplicate-subtrees](https://github.com/deepakkumar11022005/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/deepakkumar11022005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0832-binary-tree-pruning](https://github.com/deepakkumar11022005/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepakkumar11022005/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
@@ -80,6 +81,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0794-swim-in-rising-water](https://github.com/deepakkumar11022005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/deepakkumar11022005/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1117-as-far-from-land-as-possible](https://github.com/deepakkumar11022005/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -150,6 +152,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0304-range-sum-query-2d-immutable](https://github.com/deepakkumar11022005/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0494-target-sum) |
+| [0794-swim-in-rising-water](https://github.com/deepakkumar11022005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0878-shifting-letters](https://github.com/deepakkumar11022005/LeetCode/tree/master/0878-shifting-letters) |
 | [0945-snakes-and-ladders](https://github.com/deepakkumar11022005/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/deepakkumar11022005/LeetCode/tree/master/0952-word-subsets) |
@@ -213,6 +216,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepakkumar11022005/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0794-swim-in-rising-water](https://github.com/deepakkumar11022005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
 ## Prefix Sum
 |  |
@@ -264,6 +268,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/deepakkumar11022005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Matrix
@@ -275,6 +280,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0212-word-search-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/deepakkumar11022005/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/deepakkumar11022005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/deepakkumar11022005/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/deepakkumar11022005/LeetCode/tree/master/1022-unique-paths-iii) |
@@ -343,6 +349,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/deepakkumar11022005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1706-min-cost-to-connect-all-points](https://github.com/deepakkumar11022005/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepakkumar11022005/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepakkumar11022005/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
