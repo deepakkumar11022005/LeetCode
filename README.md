@@ -210,6 +210,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0494-target-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/deepakkumar11022005/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/deepakkumar11022005/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/deepakkumar11022005/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -313,6 +314,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0062-unique-paths](https://github.com/deepakkumar11022005/LeetCode/tree/master/0062-unique-paths) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepakkumar11022005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/deepakkumar11022005/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Combinatorics
 |  |
 | ------- |
