@@ -6,8 +6,6 @@ class Solution {
             int sum=0;
             for(int j:ds)
             sum+=j;
-           
-
             return sum==num;
         }
         for(int i=index;i<str.length();i++){
