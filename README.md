@@ -36,6 +36,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0832-binary-tree-pruning](https://github.com/deepakkumar11022005/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepakkumar11022005/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2104-operations-on-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/2104-operations-on-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0832-binary-tree-pruning](https://github.com/deepakkumar11022005/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepakkumar11022005/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2104-operations-on-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/2104-operations-on-tree) |
 | [2439-longest-cycle-in-a-graph](https://github.com/deepakkumar11022005/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
@@ -85,6 +87,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0945-snakes-and-ladders](https://github.com/deepakkumar11022005/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1117-as-far-from-land-as-possible](https://github.com/deepakkumar11022005/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2104-operations-on-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/2104-operations-on-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepakkumar11022005/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Binary Tree
 |  |
@@ -173,6 +176,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/deepakkumar11022005/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/deepakkumar11022005/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2104-operations-on-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/2104-operations-on-tree) |
 | [2145-grid-game](https://github.com/deepakkumar11022005/LeetCode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/deepakkumar11022005/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -251,6 +255,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepakkumar11022005/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/deepakkumar11022005/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepakkumar11022005/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2104-operations-on-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/2104-operations-on-tree) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepakkumar11022005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/deepakkumar11022005/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepakkumar11022005/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -261,6 +266,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0208-implement-trie-prefix-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/deepakkumar11022005/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0304-range-sum-query-2d-immutable](https://github.com/deepakkumar11022005/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [2104-operations-on-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/2104-operations-on-tree) |
 ## Trie
 |  |
 | ------- |
