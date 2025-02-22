@@ -35,6 +35,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0775-n-ary-tree-preorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0832-binary-tree-pruning](https://github.com/deepakkumar11022005/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepakkumar11022005/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2104-operations-on-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/2104-operations-on-tree) |
@@ -64,6 +65,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0794-swim-in-rising-water](https://github.com/deepakkumar11022005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0832-binary-tree-pruning](https://github.com/deepakkumar11022005/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepakkumar11022005/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2104-operations-on-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/2104-operations-on-tree) |
@@ -114,6 +116,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0662-maximum-width-of-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/deepakkumar11022005/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepakkumar11022005/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## String
@@ -130,6 +133,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0409-longest-palindrome](https://github.com/deepakkumar11022005/LeetCode/tree/master/0409-longest-palindrome) |
 | [0878-shifting-letters](https://github.com/deepakkumar11022005/LeetCode/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/deepakkumar11022005/LeetCode/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/deepakkumar11022005/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/1524-string-matching-in-an-array) |
