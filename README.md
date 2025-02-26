@@ -190,6 +190,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1706-min-cost-to-connect-all-points](https://github.com/deepakkumar11022005/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/deepakkumar11022005/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/deepakkumar11022005/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/deepakkumar11022005/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2104-operations-on-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/2104-operations-on-tree) |
@@ -221,6 +222,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1063-best-sightseeing-pair](https://github.com/deepakkumar11022005/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/deepakkumar11022005/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/deepakkumar11022005/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Backtracking
 |  |
 | ------- |
