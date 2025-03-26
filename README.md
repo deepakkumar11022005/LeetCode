@@ -199,6 +199,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1927-maximum-ascending-subarray-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2104-operations-on-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/2104-operations-on-tree) |
 | [2145-grid-game](https://github.com/deepakkumar11022005/LeetCode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/deepakkumar11022005/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepakkumar11022005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -314,6 +315,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepakkumar11022005/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/deepakkumar11022005/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
@@ -340,6 +342,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1117-as-far-from-land-as-possible](https://github.com/deepakkumar11022005/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/deepakkumar11022005/LeetCode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/deepakkumar11022005/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Bit Manipulation
 |  |
@@ -361,6 +364,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0062-unique-paths](https://github.com/deepakkumar11022005/LeetCode/tree/master/0062-unique-paths) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepakkumar11022005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/deepakkumar11022005/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Combinatorics
