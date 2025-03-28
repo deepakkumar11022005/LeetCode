@@ -174,6 +174,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0120-triangle](https://github.com/deepakkumar11022005/LeetCode/tree/master/0120-triangle) |
 | [0212-word-search-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0212-word-search-ii) |
 | [0239-sliding-window-maximum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/deepakkumar11022005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/deepakkumar11022005/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -225,6 +226,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0120-triangle](https://github.com/deepakkumar11022005/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/deepakkumar11022005/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/deepakkumar11022005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0494-target-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/deepakkumar11022005/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -260,6 +262,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/deepakkumar11022005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepakkumar11022005/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0794-swim-in-rising-water](https://github.com/deepakkumar11022005/LeetCode/tree/master/0794-swim-in-rising-water) |
