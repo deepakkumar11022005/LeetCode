@@ -97,6 +97,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2104-operations-on-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/2104-operations-on-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepakkumar11022005/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepakkumar11022005/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/deepakkumar11022005/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -208,6 +209,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2465-shifting-letters-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/deepakkumar11022005/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepakkumar11022005/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/deepakkumar11022005/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepakkumar11022005/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepakkumar11022005/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -323,6 +325,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepakkumar11022005/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepakkumar11022005/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/deepakkumar11022005/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
@@ -333,6 +336,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0794-swim-in-rising-water](https://github.com/deepakkumar11022005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepakkumar11022005/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -350,6 +354,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/deepakkumar11022005/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepakkumar11022005/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/deepakkumar11022005/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Bit Manipulation
 |  |
@@ -423,6 +428,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0794-swim-in-rising-water](https://github.com/deepakkumar11022005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1706-min-cost-to-connect-all-points](https://github.com/deepakkumar11022005/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepakkumar11022005/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepakkumar11022005/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/deepakkumar11022005/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepakkumar11022005/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
@@ -468,6 +474,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepakkumar11022005/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Simulation
 |  |
 | ------- |
