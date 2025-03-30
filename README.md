@@ -139,6 +139,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0212-word-search-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/deepakkumar11022005/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/deepakkumar11022005/LeetCode/tree/master/0409-longest-palindrome) |
+| [0768-partition-labels](https://github.com/deepakkumar11022005/LeetCode/tree/master/0768-partition-labels) |
 | [0878-shifting-letters](https://github.com/deepakkumar11022005/LeetCode/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/deepakkumar11022005/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -292,6 +293,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0208-implement-trie-prefix-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/deepakkumar11022005/LeetCode/tree/master/0409-longest-palindrome) |
 | [0652-find-duplicate-subtrees](https://github.com/deepakkumar11022005/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0768-partition-labels](https://github.com/deepakkumar11022005/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/deepakkumar11022005/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/deepakkumar11022005/LeetCode/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepakkumar11022005/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -396,6 +398,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0409-longest-palindrome](https://github.com/deepakkumar11022005/LeetCode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0768-partition-labels](https://github.com/deepakkumar11022005/LeetCode/tree/master/0768-partition-labels) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/deepakkumar11022005/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/deepakkumar11022005/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Counting
@@ -473,6 +476,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/deepakkumar11022005/LeetCode/tree/master/0768-partition-labels) |
 | [2551-apply-operations-to-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepakkumar11022005/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Simulation
