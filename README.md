@@ -312,6 +312,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/deepakkumar11022005/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/deepakkumar11022005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/deepakkumar11022005/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2104-operations-on-tree](https://github.com/deepakkumar11022005/LeetCode/tree/master/2104-operations-on-tree) |
@@ -327,6 +328,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/deepakkumar11022005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0948-sort-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -337,6 +339,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/deepakkumar11022005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/deepakkumar11022005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/0948-sort-an-array) |
@@ -482,6 +485,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/deepakkumar11022005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/deepakkumar11022005/LeetCode/tree/master/0768-partition-labels) |
 | [2551-apply-operations-to-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepakkumar11022005/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -505,4 +509,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/0948-sort-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/deepakkumar11022005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
