@@ -264,6 +264,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakkumar11022005/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepakkumar11022005/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0148-sort-list](https://github.com/deepakkumar11022005/LeetCode/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -328,6 +329,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/deepakkumar11022005/LeetCode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/deepakkumar11022005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0948-sort-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -481,10 +483,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepakkumar11022005/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/deepakkumar11022005/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/deepakkumar11022005/LeetCode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/deepakkumar11022005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/deepakkumar11022005/LeetCode/tree/master/0768-partition-labels) |
 | [2551-apply-operations-to-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -496,6 +500,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/deepakkumar11022005/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
