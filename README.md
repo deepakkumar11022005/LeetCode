@@ -466,6 +466,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1258-article-views-i](https://github.com/deepakkumar11022005/LeetCode/tree/master/1258-article-views-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/deepakkumar11022005/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/deepakkumar11022005/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1670-patients-with-a-condition](https://github.com/deepakkumar11022005/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1827-invalid-tweets](https://github.com/deepakkumar11022005/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/deepakkumar11022005/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Queue
