@@ -153,6 +153,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2456-construct-smallest-number-from-di-string](https://github.com/deepakkumar11022005/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepakkumar11022005/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/deepakkumar11022005/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/deepakkumar11022005/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/deepakkumar11022005/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
@@ -242,6 +243,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/deepakkumar11022005/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/deepakkumar11022005/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/deepakkumar11022005/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -392,6 +394,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepakkumar11022005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/deepakkumar11022005/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/deepakkumar11022005/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Combinatorics
 |  |
 | ------- |
