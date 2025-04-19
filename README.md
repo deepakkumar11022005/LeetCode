@@ -215,6 +215,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepakkumar11022005/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/deepakkumar11022005/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepakkumar11022005/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/deepakkumar11022005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepakkumar11022005/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/deepakkumar11022005/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/deepakkumar11022005/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -276,6 +277,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepakkumar11022005/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0794-swim-in-rising-water](https://github.com/deepakkumar11022005/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/deepakkumar11022005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -339,6 +341,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1397-search-suggestions-system](https://github.com/deepakkumar11022005/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepakkumar11022005/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/deepakkumar11022005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepakkumar11022005/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/deepakkumar11022005/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
@@ -503,6 +506,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0768-partition-labels](https://github.com/deepakkumar11022005/LeetCode/tree/master/0768-partition-labels) |
 | [2551-apply-operations-to-an-array](https://github.com/deepakkumar11022005/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepakkumar11022005/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/deepakkumar11022005/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
 |  |
 | ------- |
