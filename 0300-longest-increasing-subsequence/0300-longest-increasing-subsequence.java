@@ -1,18 +1,17 @@
 class Solution {
+    public int dfs(int index,int prev_index,int nums[], Integer dp[][])
+    {
+        if(index<0) return 0;
+        if(dp[index][prev_index+1]!=null) return dp[index][prev_index+1];
+        int take=-1;
+        if( prev_index==-1||nums[index]<nums[prev_index])
+        take=dfs(index-1,index,nums,dp)+1;
+        int notTake=dfs(index-1,prev_index,nums,dp);
+        return dp[index][prev_index+1]=Math.max(take,notTake);
+    }
     public int lengthOfLIS(int[] nums) {
         int n=nums.length;
-        int arr[]=new int[n];
-        Arrays.fill(arr,1);
-        int max=1;
-        for(int i=1;i<n;i++)
-        {
-            for(int j=0;j<i;j++)
-            {
-                if(nums[j]<nums[i])
-                arr[i]=Math.max(arr[i],arr[j]+1);
-            }
-            max=Math.max(max,arr[i]);
-        }
-        return max;
+        Integer dp[][]=new Integer[n][n+1];
+        return dfs(n-1,-1,nums,dp);
     }
 }
