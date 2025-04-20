@@ -183,6 +183,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0410-split-array-largest-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0494-target-sum) |
 | [0794-swim-in-rising-water](https://github.com/deepakkumar11022005/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0797-rabbits-in-forest](https://github.com/deepakkumar11022005/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0878-shifting-letters](https://github.com/deepakkumar11022005/LeetCode/tree/master/0878-shifting-letters) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/deepakkumar11022005/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/deepakkumar11022005/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -302,6 +303,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0409-longest-palindrome](https://github.com/deepakkumar11022005/LeetCode/tree/master/0409-longest-palindrome) |
 | [0652-find-duplicate-subtrees](https://github.com/deepakkumar11022005/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0768-partition-labels](https://github.com/deepakkumar11022005/LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/deepakkumar11022005/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/deepakkumar11022005/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/deepakkumar11022005/LeetCode/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepakkumar11022005/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -393,6 +395,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/deepakkumar11022005/LeetCode/tree/master/0062-unique-paths) |
+| [0797-rabbits-in-forest](https://github.com/deepakkumar11022005/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2050-count-good-numbers](https://github.com/deepakkumar11022005/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepakkumar11022005/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -418,6 +421,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0409-longest-palindrome](https://github.com/deepakkumar11022005/LeetCode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/deepakkumar11022005/LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/deepakkumar11022005/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/deepakkumar11022005/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/deepakkumar11022005/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Counting
