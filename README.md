@@ -129,6 +129,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/deepakkumar11022005/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/deepakkumar11022005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/deepakkumar11022005/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/deepakkumar11022005/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -233,6 +234,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/deepakkumar11022005/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/deepakkumar11022005/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/deepakkumar11022005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deepakkumar11022005/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -517,6 +519,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/deepakkumar11022005/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/deepakkumar11022005/LeetCode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/deepakkumar11022005/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/deepakkumar11022005/LeetCode/tree/master/0768-partition-labels) |
